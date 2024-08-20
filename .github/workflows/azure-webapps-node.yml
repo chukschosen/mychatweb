@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 env:
-  AZURE_WEBAPP_NAME: your-app-name    # Replace with your actual Azure App Service name
+  AZURE_WEBAPP_NAME: meet web   # Replace with your Azure App Service name
   AZURE_WEBAPP_PACKAGE_PATH: '.'      # Path to your app’s package
   NODE_VERSION: '20.x'                # Node version to use
 
